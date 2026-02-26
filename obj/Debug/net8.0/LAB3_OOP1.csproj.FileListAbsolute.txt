@@ -1,0 +1,14 @@
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\bin\Debug\net8.0\LAB3_OOP1.exe
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\bin\Debug\net8.0\LAB3_OOP1.deps.json
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\bin\Debug\net8.0\LAB3_OOP1.runtimeconfig.json
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\bin\Debug\net8.0\LAB3_OOP1.dll
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\bin\Debug\net8.0\LAB3_OOP1.pdb
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.AssemblyInfoInputs.cache
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.AssemblyInfo.cs
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.dll
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\refint\LAB3_OOP1.dll
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.pdb
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\LAB3_OOP1.genruntimeconfig.cache
+C:\Users\UTPuser\source\repos\LAB3_OOP1\LAB3_OOP1\obj\Debug\net8.0\ref\LAB3_OOP1.dll
